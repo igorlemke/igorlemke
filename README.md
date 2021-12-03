@@ -1,4 +1,9 @@
 ## Olá eu sou o Igor Lemke, Analista de teste/QA!
+<div align="center">
+  <a href="https://github.com/igorlemke">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorlemke&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlemke&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
   
 <!--
