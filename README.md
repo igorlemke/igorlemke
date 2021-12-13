@@ -2,7 +2,7 @@
 
 - 🎂 26 Anos
 - 💼 Atualmente trabalho como Analista de teste Jr/QA, porém estou aberto para novas oportunidades.
-- ❤️ Gosto de qualidade de software.
+- 💜 Gosto de qualidade de software.
 - 👨‍🎓 Cursando tecnologia da informação.
 
 ##
