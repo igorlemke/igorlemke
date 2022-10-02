@@ -1,6 +1,6 @@
 ## Olá eu sou o Igor Lemke!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-- 🎂 26 Anos.
+- 🎂 27 Anos.
 - 💼 Atualmente trabalho como Analista de teste Jr/QA, porém estou aberto para novas oportunidades.
 - 💜 Gosto de qualidade de software.
 - 👨‍🎓 Cursando tecnologia da informação.
