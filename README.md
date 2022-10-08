@@ -2,7 +2,6 @@
 
 - 🎂 27 Anos.
 - 💼 Atualmente trabalho como Analista de Suporte.
-- 💜 Gosto de analise e qualidade de software.
 - 👨‍🎓 Cursando tecnologia da informação.
 
 ##
