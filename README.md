@@ -2,7 +2,7 @@
 
 - 🎂 27 Anos.
 - 💼 Atualmente trabalho como Analista de Suporte.
-- 👨‍🎓 Cursando tecnologia da informação e esturando python
+- 👨‍🎓 Cursando tecnologia da informação e estudando Python
 
 ##
 
