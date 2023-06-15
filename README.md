@@ -2,7 +2,7 @@
 
 - 🎂 28 Anos.
 - 💼 Atualmente trabalho como Analista de Sustentação.
-- 👨‍🎓 Cursando tecnologia da informação
+- 👨‍🎓 Cursando tecnologia da informação e aprendendo Java
 
 ##
 
