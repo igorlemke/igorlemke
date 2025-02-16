@@ -1,6 +1,6 @@
 ## Ei, seja bem-vindo! Eu sou Igor Lemke!
 
-- 🎂 28 Anos.
+- 🎂 30 Anos.
 - 💼 Atualmente trabalho como Analista de Sustentação.
 - 👨‍🎓 Cursando tecnologia da informação e aprendendo Python
 
